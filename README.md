@@ -1,3 +1,3 @@
-Hello, I'm Behzad Yazdi
-I'm a web developer.
-You can contact me with by email: mryazdi89@gmail.com
+<p>Hello, I'm <b>Behzad Yazdi</b></p>
+<p>I'm a web developer.</p>
+<p>You can contact me with by email: mryazdi89@gmail.com</p>
